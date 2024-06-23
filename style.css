@@ -1,0 +1,97 @@
+body {
+            background-color: #13131a;
+            color: white;
+        }
+       .navbar-brand{
+            font-size: 35px !important;
+       }
+       .navbar-brand:hover{
+        color: #ff3af3 !important;
+       }
+       .nav-link{
+            font-size: 20px !important;
+       }
+        .bg-custom {
+            background-color: #13131a !important;
+            color: white !important;
+            
+        }
+        .section {
+            padding: 60px 0;
+        }
+        .bg-photo {
+            background-image: url('img/blob-scene-haikei.png');
+            background-size: cover;
+            background-position: center;
+            color: #fff;
+            height: 100vh;
+            background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+        }
+        
+        .social-icons a:hover i, .skills i:hover {
+            color: #ff3af3;
+        }
+        .mainph{
+            display: flex;
+            align-items: center;
+            height: 100vh;
+        }
+        .mainph h1{
+            font-size: 60px;
+        }
+        .mainph p{
+            font-size: larger;
+            padding-top: 40px;
+        }
+       .social-icons i{
+        
+            color: #fff;
+            margin: 0 10px;
+        }
+        
+        .bio{
+            display: flex;
+            justify-content: space-around;
+            gap: 10px;
+            font-size: larger;
+        }
+       #biography h2{
+        margin-bottom: 40px;
+       }
+       .bg-pink{
+        background-color: #ff3af3 !important;
+       }
+       .bg-blue{
+        background-color: #4588f7;
+       }
+       .bg-purple{
+            background-color: #341e5c !important;
+            color: white !important;
+       }
+       .edu{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 50px;
+       }
+       .card-title{
+        text-align: center;
+       }
+       #education a {
+        float: right;
+       }
+       .skills{
+        display: flex;
+        justify-content: center;
+        gap: 60px;
+       }
+       li{
+        list-style-type: none;
+       }
+       .contact{
+        display: flex;
+        justify-content: center;
+       }
